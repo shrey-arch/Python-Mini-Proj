@@ -1,5 +1,6 @@
 A Python mini project for managing students, tracking their marks, calculating grades, and managing user login (admin/student) using JSON files for data storage.
 ✨ Features
+
 1] Login System
 
 2] Admin login
