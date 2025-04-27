@@ -1,0 +1,44 @@
+{
+    "C0057": {
+        "name": "Shrey",
+        "marks": {
+            "Maths ": 89.0,
+            "Eng": 89.0
+        }
+    },
+    "C0061": {
+        "name": "Gaurang",
+        "marks": {
+            "Maths": 40.0
+        }
+    },
+    "C0058": {
+        "name": "Sahil",
+        "marks": {
+            "Maths": 78.0
+        }
+    },
+    "C0059": {
+        "name": "Raj",
+        "marks": {
+            "Maths ": 48.0
+        }
+    },
+    "C0050": {
+        "name": "Ved",
+        "marks": {
+            "Maths": 100.0
+        }
+    },
+    "C0049": {
+        "name": "Aditya",
+        "marks": {
+            "Maths": 100.0,
+            "Eng": 10.0
+        }
+    },
+    "C0041": {
+        "name": "Gauri",
+        "marks": {}
+    }
+}

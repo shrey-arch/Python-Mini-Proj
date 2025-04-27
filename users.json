@@ -1,0 +1,43 @@
+[
+    {
+        "username": "Admin",
+        "password": "Admin123",
+        "role": "admin"
+    },
+    {
+        "username": "Shrey",
+        "password": "Shrey123",
+        "role": "student",
+        "student_id": "C0057"
+    },
+    {
+        "username": "Gaurang",
+        "password": "Gaurang123",
+        "role": "student",
+        "student_id": "C0061"
+    },
+    {
+        "username": "Raj",
+        "password": "Raj123",
+        "role": "student",
+        "student_id": "C0059"
+    },
+    {
+        "username": "Ved",
+        "password": "Ved123",
+        "role": "student",
+        "student_id": "C0050"
+    },
+    {
+        "username": "Aditya",
+        "password": "Aditya123",
+        "role": "student",
+        "student_id": "C0049"
+    },
+    {
+        "username": "Gauri123",
+        "password": "Gauri123",
+        "role": "student",
+        "student_id": "C0041"
+    }
+]
